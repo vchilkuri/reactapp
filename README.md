@@ -1,6 +1,6 @@
 # react-example
 
-React example app that demonstrates using [React] with [webpack], and [babeljs], as well as project structure.
+React example app that demonstrates using [React] and React-Router with [webpack], and [babeljs], as well as project structure.
 
 Requirements:
 - git
@@ -10,8 +10,8 @@ Requirements:
 To run the app locally:
 
 ```bash
-git clone https://github.com/mzabriskie/react-example.git
-cd react-example
+git clone https://github.com/vchilkuri/reactapp.git
+cd reactapp
 npm install axios --save
 npm start
 open http://localhost:3000
